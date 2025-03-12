@@ -1,5 +1,7 @@
-# Hi there, I'm Siddheshwar  👋  
+# Hi there, I'm Siddheshwar 👋  
 ### 🚀 Web Developer | B.Tech CSE Student | Tech Enthusiast  
+
+![Profile Views](https://komarev.com/ghpvc/?username=siddheshwar-sakhare&label=PROFILE+VIEWS&style=flat-square&color=blue)
 
 💻 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -9,13 +11,14 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-
 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshwar-sakhare&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddheshwar-sakhare&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwar-sakhare&layout=compact&theme=tokyonight)  
+
+📈 **GitHub Activity Graph:**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddheshwar-sakhare&theme=react-dark)  
 
 🔗 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/
-siddheshwar-sakhare-7673b6326
-)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siddheshwar-sakhare-7673b6326)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://siddheshwar-sakhare.github.io/portfolio/)  
