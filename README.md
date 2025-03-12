@@ -16,8 +16,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddheshwar-sakhare&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwar-sakhare&layout=compact&theme=tokyonight)  
 
-📈 **GitHub Activity Graph:**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siddheshwar-sakhare&theme=react-dark)  
 
 🔗 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siddheshwar-sakhare-7673b6326)  
