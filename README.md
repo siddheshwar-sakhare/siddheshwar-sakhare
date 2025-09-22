@@ -15,5 +15,4 @@
 
 🔗 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/siddheshwar-sakhare-7673b6326)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://siddheshwar-sakhare.github.io/portfolio/)  
-[![Foliome](https://img.shields.io/badge/-Foliome-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://foliome.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Foliome-0A66C2?style=flat-square&logo=netlify&logoColor=white)](https://foliome.netlify.app/)
